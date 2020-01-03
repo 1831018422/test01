@@ -10,4 +10,5 @@ public class Student {
     private String msg;
     private String email;
     private String s1;
+    private String s3;
 }
