@@ -9,4 +9,5 @@ public class Student {
     private String age;
     private String msg;
     private String email;
+    private String s1;
 }
